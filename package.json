@@ -1,0 +1,24 @@
+{
+  "name": "Frases-Kanye",
+  "version": "1.0.0",
+  "description": "Gerador de Frases do Kanye West em portugues utilizando da kanye.rest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heitorfreitasferreira/Frases-Kanye.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heitorfreitasferreira/Frases-Kanye/issues"
+  },
+  "homepage": "https://github.com/heitorfreitasferreira/Frases-Kanye#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "yeezus": "^0.1.3"
+  }
+}
